@@ -16,7 +16,7 @@ Software and Libraries:
 - Plots - referred to in report
 - Raw data - logged data used for plot
 - Code - contains the Arduino sketches
-<br> <br> Explanation of videos: The "Simulated Pitch Demonstration" shows the response of the elevator to a target pitch, the first described mode of operation. <br> <br>
+<br> <br> Explanation of videos: The "Simulated Pitch Demonstration" shows the response of the elevator to a target pitch, the first described mode of operation.
 The "Real Pitch Demonstration" shows the actuator response when attempting to maintain a target pitch of 0°, using accelerometer-derived pitch measurements as feedback.
 <br> <br>  Notes:<br> <br>
 - The Real Pitch sketch contains unused variables originating from the simulated pitch implementation. These do not affect functionality but are retained for development continuity.
